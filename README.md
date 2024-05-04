@@ -10,6 +10,6 @@ In the distance, a chorus of birdsong filled the air, adding to the serenity of 
 
 As evening descended, the sky transformed into a canvas of vibrant hues, painting streaks of orange, pink, and purple across the heavens.
 
-#####It was a scene of natural beauty
+##### It was a scene of natural beauty
 
 It was a scene of natural beauty, a fleeting yet unforgettable moment that captured the essence of peace and harmony in the world.
